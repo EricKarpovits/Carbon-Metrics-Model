@@ -28,7 +28,6 @@ In our project, we want to explore the question, **how can we use models to pred
 
 ## [**Our Project Report**](https://github.com/EricKarpovits/Carbon-Metrics-Model/blob/main/project_report.pdf)
 
-----
 
 ## **How to run the project?** 
 
