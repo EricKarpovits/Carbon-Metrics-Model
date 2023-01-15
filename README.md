@@ -22,7 +22,7 @@ In our project, we want to explore the question, **how can we use models to pred
 
 ----
 
-## **Our Team**: [Eric Karpovits](https://github.com/EricKarpovits), [Ahmed Khalf](https://github.com/ahmedkhalf), Rohan Mistry Eric Karpovits, and Shaffaan Bin Aamir
+## **Our Team**: [Eric Karpovits](https://github.com/EricKarpovits), [Ahmed Khalf](https://github.com/ahmedkhalf), Rohan Mistry, and Shaffaan Bin Aamir
 
 ----
 
